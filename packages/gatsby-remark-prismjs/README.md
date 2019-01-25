@@ -74,7 +74,7 @@ plugins: [
             // In the example below we would match 'superif' and 'superelse'. In the html
             // it would result in the following when a match is found:
             // <span class='token superscript_keywords'>superif</span>
-            languageExtension: [
+            languageExtensions: [
               {
                 language: "superscript",
                 extend: "javascript",
